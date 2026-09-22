@@ -24,8 +24,8 @@ Data Cleaning and Transformation in the given set of data by using Excel.
                                        *Using "&"function for merging 
                                               Formula used :[=I2& " " &H2]
 # Number Formatting:									
-		• Format the data type of the "Price" column into currency format 								
-		• Format the "Manufacturing Date" column to display dates in the "DD-MM-YYYY " format(by adding default date)								
+		• Formatting the data type of the "Price" column into currency format 								
+		• Formatting the "Manufacturing Date" column to display dates in the "DD-MM-YYYY " format(by adding default date)								
 										
 # Conditional Formatting:									
 		• Apply data bar or color scales conditional formatting in the "Price" column.								
